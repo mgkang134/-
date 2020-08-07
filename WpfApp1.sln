@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "학교의 노예", "WpfApp1\학교의 노예.csproj", "{258DD406-5200-4487-B0FE-B1755AC97874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{258DD406-5200-4487-B0FE-B1755AC97874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{258DD406-5200-4487-B0FE-B1755AC97874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{258DD406-5200-4487-B0FE-B1755AC97874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{258DD406-5200-4487-B0FE-B1755AC97874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {398AF6B0-26EC-4FF4-8C49-3E1EDD46E104}
+	EndGlobalSection
+EndGlobal
