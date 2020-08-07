@@ -9,10 +9,16 @@
 * 검색기능.
 
 ## 스크린샷
+
 * 기본 사용 화면
+
 ![image](https://user-images.githubusercontent.com/68174637/89661618-de8ff500-d90d-11ea-9c3d-af3e1d81478e.png)
+
 * 인쇄 기능
+
 ![image](https://user-images.githubusercontent.com/68174637/89661734-054e2b80-d90e-11ea-8615-4f40c08dfcde.png)
+
 * 검색 기능
+
 ![image](https://user-images.githubusercontent.com/68174637/89661875-39295100-d90e-11ea-9dc1-5a5dcefd7773.png)
 
