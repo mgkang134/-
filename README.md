@@ -22,3 +22,6 @@
 
 ![image](https://user-images.githubusercontent.com/68174637/89661875-39295100-d90e-11ea-9dc1-5a5dcefd7773.png)
 
+## 사용해 보기
+
+* [다운로드](https://github.com/mgkang134/Moses_Of_School/releases)
